@@ -1,0 +1,79 @@
+p
+{
+	font-family :Fraktur;
+	color :purple;
+	font-size :40;
+	font-style :italic;
+}
+head
+{
+	font-family :TimesNewRoman;
+	color :orange;
+	font-size :50;
+	background:lavender;
+	font-style :italic;
+}
+body
+{
+	font-family :Calibri;
+	color :purple;
+	font-size :22;
+	font-style :italic;
+}
+h1
+{
+	font-family :timesnewroman;
+	color :orange;
+	background :lavender;
+	font-size :150;
+	font-style :bold;
+}
+h3
+{
+	font-family :timesnewroman;
+	color :orange;
+	font-size :50;
+	font-style :bold;
+}
+li
+{
+	font-family :AptosDisplay;
+	color :purple;
+	font-size :22;
+	font-style :italic;
+}
+ol
+{
+	font-family :AptosDisplay;
+	color :orange;
+	font-size :22;
+	font-style :italic;
+}
+ul
+{
+	font-family :AptosDisplay;
+	color :orange;
+	font-size :22;
+	font-style :italic;
+}
+form
+{
+	font-family :Arial;
+	color :purple;
+	font-size :22;
+	font-style :italic;
+}
+td
+{
+	font-family :BahnschriftLight;
+	color :purple;
+	font-size :22;
+	font-style :italic;
+}
+tr
+{
+	font-family :BahnschriftLight;
+	color :purple;
+	font-size :22;
+	font-style :italic;
+}
